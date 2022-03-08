@@ -1,1 +1,1 @@
-# simple-guess-the-number-game
+# learning python
